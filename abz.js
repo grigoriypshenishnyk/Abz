@@ -309,9 +309,7 @@ function checkForms () {
                         spinoff()
                     }
                     }) 
-                    .catch(function(error) {
-                         
-                    });    
+                 );    
               }         
             } 
         }
